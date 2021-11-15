@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.admin-mode {
+	display: flex;
+	flex-direction: row;
+}
+.admin-right-item {
+	padding-bottom: 20px;
+}
+.admin-right-item:hover {
+	background-color: #ccc;
+}
